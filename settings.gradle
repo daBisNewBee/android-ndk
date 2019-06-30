@@ -1,0 +1,3 @@
+include ':hello-jniCallback:app'
+include ':native-audio:app'
+include ':native-audio:OpenSL-ES-Record'
